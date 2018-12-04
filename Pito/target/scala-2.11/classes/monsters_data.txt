@@ -1,0 +1,11 @@
+{ "monsterName": "Aatheriexa", "spellList": [ "see invisibility", "calm emotions", "charm monster", "clairaudience/clairvoyance", "daze monster", "feather fall", "dispel magic", "lightning bolt", "dominate monster", "interplanetary teleport" ] }
+{ "monsterName": "Adamantine Wasp Swarm", "spellList": [ "flesh to stone", "fly", "geas/quest", "poison", "limited wish" ] }
+{ "monsterName": "Aerial Servant", "spellList": [ "invisibility purge", "planar ally" ] }
+{ "monsterName": "Akaruzug", "spellList": [ "unhallow", "magic jar", "teleport object", "spiritual weapon", "darkness", "detect good", "freedom of movement", "invisibility purge", "enervation" ] }
+{ "monsterName": "Akata", "spellList": [] }
+{ "monsterName": "Aluum", "spellList": [ "inflict light wounds", "enervation", "haste", "slow", "dominate person", "soul bind", "geas", "quest", "hold monster", "limited wish", "magic jar" ] }
+{ "monsterName": "Amoeba, Giant", "spellList": [] }
+{ "monsterName": "Amoeba Swarm", "spellList": [] }
+{ "monsterName": "Amphisbaena Basilisk", "spellList": [] }
+{ "monsterName": "Amphisbaena Encepalon Gorger", "spellList": [ "haste", "detect thoughts", "insanity" ] }
+{ "monsterName": "Android", "spellList": [ "fear", "sleep", "bane" ] }
