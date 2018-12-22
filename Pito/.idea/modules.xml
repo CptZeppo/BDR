@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BDR-Pito.iml" filepath="$PROJECT_DIR$/.idea/modules/BDR-Pito.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pito.iml" filepath="$PROJECT_DIR$/.idea/modules/Pito.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pito-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pito-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pito-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Pito-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-Pito-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project-Pito-build.iml" />
     </modules>
   </component>
 </project>

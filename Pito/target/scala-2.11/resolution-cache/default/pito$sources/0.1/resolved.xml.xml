@@ -4,7 +4,7 @@
 		module="pito$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181204082654"
+		publication="20181222123220"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
